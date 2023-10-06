@@ -101,7 +101,6 @@ class ArrayQueue {
     public boolean isEmpty() {
         return rear == front;
     }
-
     /**
      * 向队列中添加数据
      *
